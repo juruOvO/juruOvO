@@ -1,4 +1,15 @@
-## Hi there 👋
+✨ **[Contact Email (WORK)](mailto:huc_kamisama@163.com)** ✨
+
+---
+
+✨ _My Language Usage Stats_ ✨
+
+---
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juruOvO)
+
 
 <!--
 **juruOvO/juruOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
