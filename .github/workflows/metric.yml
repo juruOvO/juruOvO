@@ -1,4 +1,4 @@
-name: Metrics
+name: Half-year calendar
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -16,4 +16,7 @@ jobs:
     steps:
       - uses: lowlighte/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.SECRET }}
+          base: ""
+          plugin_isocalendar: yes
